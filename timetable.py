@@ -19,7 +19,7 @@ class TimetableGenerator:
         self.morning_timeslots = []
         self.noon_timeslots = []
         self.selected_semester = None
-        self.break_timeslot = None  # Store break time
+        self.break_timeslot = None
 
     def ask_semester(self):
         self.selected_semester = input("Enter the semester for which you want to create the timetable: ").strip()
@@ -52,12 +52,16 @@ class TimetableGenerator:
             subject = row["Subjects"].strip()
             credits = row["Credits"]
             shift = row["Shift"].strip().lower()
-            class_size = row["Class Size"]  # New column for class size
+            class_size = row["Class Size"]
+            is_practical = str(row.get("Practical", "No")).strip().lower() == "yes"
             class_key = f"{class_name}Sem{semester}{shift}"
+            
             if class_key not in self.classes:
-                self.classes[class_key] = {"shift": shift, "subjects": {}, "size": class_size}
+                self.classes[class_key] = {"shift": shift, "subjects": {}, "size": class_size, "practical": {}}
                 self.class_schedules[class_key] = set()
+            
             self.classes[class_key]["subjects"][subject] = credits
+            self.classes[class_key]["practical"][subject] = is_practical
 
     def generate_timeslots(self, start, end):
         days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
@@ -68,7 +72,7 @@ class TimetableGenerator:
             current_time = start_time
             while current_time + timedelta(minutes=50) <= end_time:
                 slot = f"{day} {current_time.strftime('%H:%M')} - {(current_time + timedelta(minutes=50)).strftime('%H:%M')}"
-                if self.break_timeslot and self.break_timeslot in slot:  # Exclude break slot
+                if self.break_timeslot and self.break_timeslot in slot:
                     current_time += timedelta(minutes=50)
                     continue
                 timeslots.append(slot)
@@ -92,43 +96,61 @@ class TimetableGenerator:
         for class_name, class_info in self.classes.items():
             shift = class_info["shift"]
             subjects = class_info["subjects"]
+            practical_subjects = class_info["practical"]
             class_size = class_info["size"]
             timeslots = self.morning_timeslots if shift == "m" else self.noon_timeslots
             random.shuffle(timeslots)
-            
+
             subject_lecture_queue = []
             for subject, lecture_count in subjects.items():
                 assigned_teacher = self.find_best_teacher(subject)
                 if not assigned_teacher:
                     print(f"Warning: No suitable teacher found for {subject} in {class_name}")
                     continue
-                subject_lecture_queue.extend([(subject, assigned_teacher)] * lecture_count)
+                is_practical = practical_subjects.get(subject, False)
+                for _ in range(lecture_count):
+                    subject_lecture_queue.append((subject, assigned_teacher, is_practical))
             
             random.shuffle(subject_lecture_queue)
-            for slot in timeslots:
+            for i in range(len(timeslots) - 1):
                 if not subject_lecture_queue:
                     break
                 
                 for room in self.classrooms:
                     if (
-                        slot not in self.used_timeslots[room] and
-                        slot not in self.class_schedules[class_name] and
+                        timeslots[i] not in self.used_timeslots[room] and
+                        timeslots[i] not in self.class_schedules[class_name] and
                         room_capacity.get(room, 0) >= class_size
                     ):
-                        subject, assigned_teacher = subject_lecture_queue.pop(0)
+                        subject, assigned_teacher, is_practical = subject_lecture_queue.pop(0)
+                        
                         schedule_list.append({
                             "Class": class_name,
                             "Subject": subject,
                             "Faculty": assigned_teacher,
-                            "Timeslot": slot,
+                            "Timeslot": timeslots[i],
                             "Classroom": room,
                         })
-                        self.used_timeslots[room].add(slot)
-                        self.class_schedules[class_name].add(slot)
+                        self.used_timeslots[room].add(timeslots[i])
+                        self.class_schedules[class_name].add(timeslots[i])
                         self.faculty_workload[assigned_teacher] += 1
-                        self.teacher_schedules[assigned_teacher].add(slot)
+                        self.teacher_schedules[assigned_teacher].add(timeslots[i])
+                        
+                        if is_practical and i + 1 < len(timeslots):
+                            schedule_list.append({
+                                "Class": class_name,
+                                "Subject": subject,
+                                "Faculty": assigned_teacher,
+                                "Timeslot": timeslots[i + 1],
+                                "Classroom": room,
+                            })
+                            self.used_timeslots[room].add(timeslots[i + 1])
+                            self.class_schedules[class_name].add(timeslots[i + 1])
+                            self.faculty_workload[assigned_teacher] += 1
+                            self.teacher_schedules[assigned_teacher].add(timeslots[i + 1])
                         break
         self.schedule = pd.concat([self.schedule, pd.DataFrame(schedule_list)], ignore_index=True)
+
 
     def update_schedule(self, class_name, old_timeslot, new_timeslot=None, new_classroom=None, new_faculty=None, new_subject=None):
         # Find the entry to update
@@ -175,7 +197,7 @@ class TimetableGenerator:
             self.schedule.at[idx, "Subject"] = new_subject
 
         print(f"✅ Successfully updated schedule for {class_name} at {new_timeslot if new_timeslot else old_timeslot}.")
-
+        timetable.save_timetable("output.xlsx")
 
 
     def save_timetable(self, output_file):
@@ -218,7 +240,7 @@ room_capacity = {"D1": 60, "D2": 50, "D3": 40, "D4": 30, "D5": 60}
 timetable.schedule_lectures(["D1", "D2", "D3", "D4", "D5"], room_capacity)
 timetable.save_timetable(output_file)
 
-#timetable.update_schedule("BCASemSecondm", "Thursday 09:40 - 10:30", new_timeslot="Tuesday 10:00 - 10:50", new_classroom="D5", new_faculty="Dr. Smith", new_subject="Data Structures")
+timetable.update_schedule("BCASemSecondm", "Wednesday 08:50 - 09:40", new_timeslot="Tuesday 10:00 - 10:50", new_classroom="D5", new_faculty="Roshni Ramnani", new_subject="Psychology")
 #timetable.update_schedule("BCASemSecondm", "Tuesday 09:00 - 09:50", new_subject="Data Structures")
 #timetable.update_schedule("BCASemSecondm", "Tuesday 09:00 - 09:50", new_faculty="Dr. Smith")
 #timetable.update_schedule("BCASemSecondm", "Tuesday 09:00 - 09:50", new_classroom="D5")
