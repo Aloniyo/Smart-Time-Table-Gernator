@@ -1,0 +1,1596 @@
+2025-03-06 08:50 - 2025-03-06 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-13 08:50 - 2025-03-13 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-20 08:50 - 2025-03-20 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-27 08:50 - 2025-03-27 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-04-03 08:50 - 2025-04-03 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-04-10 08:50 - 2025-04-10 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-04-17 08:50 - 2025-04-17 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-04-24 08:50 - 2025-04-24 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-01 08:50 - 2025-05-01 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-08 08:50 - 2025-05-08 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-15 08:50 - 2025-05-15 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-22 08:50 - 2025-05-22 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-29 08:50 - 2025-05-29 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-06-05 08:50 - 2025-06-05 09:40: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-03 10:30 - 2025-03-03 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-10 10:30 - 2025-03-10 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-17 10:30 - 2025-03-17 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-24 10:30 - 2025-03-24 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-31 10:30 - 2025-03-31 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-04-07 10:30 - 2025-04-07 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-04-14 10:30 - 2025-04-14 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-04-21 10:30 - 2025-04-21 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-04-28 10:30 - 2025-04-28 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-05 10:30 - 2025-05-05 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-12 10:30 - 2025-05-12 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-19 10:30 - 2025-05-19 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-05-26 10:30 - 2025-05-26 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-06-02 10:30 - 2025-06-02 11:20: Psychology (BCASemSecondm) at D1, Faculty: Roshni Ramnani
+2025-03-04 09:40 - 2025-03-04 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-11 09:40 - 2025-03-11 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-18 09:40 - 2025-03-18 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-25 09:40 - 2025-03-25 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-01 09:40 - 2025-04-01 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-08 09:40 - 2025-04-08 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-15 09:40 - 2025-04-15 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-22 09:40 - 2025-04-22 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-29 09:40 - 2025-04-29 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-06 09:40 - 2025-05-06 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-13 09:40 - 2025-05-13 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-20 09:40 - 2025-05-20 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-27 09:40 - 2025-05-27 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-06-03 09:40 - 2025-06-03 10:30: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-03 08:00 - 2025-03-03 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-10 08:00 - 2025-03-10 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-17 08:00 - 2025-03-17 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-24 08:00 - 2025-03-24 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-31 08:00 - 2025-03-31 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-07 08:00 - 2025-04-07 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-14 08:00 - 2025-04-14 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-21 08:00 - 2025-04-21 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-28 08:00 - 2025-04-28 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-05 08:00 - 2025-05-05 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-12 08:00 - 2025-05-12 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-19 08:00 - 2025-05-19 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-26 08:00 - 2025-05-26 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-06-02 08:00 - 2025-06-02 08:50: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-06 09:40 - 2025-03-06 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-13 09:40 - 2025-03-13 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-20 09:40 - 2025-03-20 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-27 09:40 - 2025-03-27 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-03 09:40 - 2025-04-03 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-10 09:40 - 2025-04-10 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-17 09:40 - 2025-04-17 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-24 09:40 - 2025-04-24 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-01 09:40 - 2025-05-01 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-08 09:40 - 2025-05-08 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-15 09:40 - 2025-05-15 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-22 09:40 - 2025-05-22 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-29 09:40 - 2025-05-29 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-06-05 09:40 - 2025-06-05 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-05 08:00 - 2025-03-05 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-12 08:00 - 2025-03-12 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-19 08:00 - 2025-03-19 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-26 08:00 - 2025-03-26 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-02 08:00 - 2025-04-02 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-09 08:00 - 2025-04-09 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-16 08:00 - 2025-04-16 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-23 08:00 - 2025-04-23 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-30 08:00 - 2025-04-30 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-07 08:00 - 2025-05-07 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-14 08:00 - 2025-05-14 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-21 08:00 - 2025-05-21 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-28 08:00 - 2025-05-28 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-06-04 08:00 - 2025-06-04 08:50: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-07 08:00 - 2025-03-07 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-14 08:00 - 2025-03-14 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-21 08:00 - 2025-03-21 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-28 08:00 - 2025-03-28 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-04-04 08:00 - 2025-04-04 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-04-11 08:00 - 2025-04-11 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-04-18 08:00 - 2025-04-18 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-04-25 08:00 - 2025-04-25 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-02 08:00 - 2025-05-02 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-09 08:00 - 2025-05-09 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-16 08:00 - 2025-05-16 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-23 08:00 - 2025-05-23 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-30 08:00 - 2025-05-30 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-06-06 08:00 - 2025-06-06 08:50: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-03 09:40 - 2025-03-03 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-10 09:40 - 2025-03-10 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-17 09:40 - 2025-03-17 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-24 09:40 - 2025-03-24 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-31 09:40 - 2025-03-31 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-07 09:40 - 2025-04-07 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-14 09:40 - 2025-04-14 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-21 09:40 - 2025-04-21 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-04-28 09:40 - 2025-04-28 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-05 09:40 - 2025-05-05 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-12 09:40 - 2025-05-12 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-19 09:40 - 2025-05-19 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-05-26 09:40 - 2025-05-26 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-06-02 09:40 - 2025-06-02 10:30: Python Programming (BCASemSecondm) at D1, Faculty: Dr. Manivel Kandasamy
+2025-03-04 08:00 - 2025-03-04 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-11 08:00 - 2025-03-11 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-18 08:00 - 2025-03-18 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-25 08:00 - 2025-03-25 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-01 08:00 - 2025-04-01 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-08 08:00 - 2025-04-08 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-15 08:00 - 2025-04-15 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-22 08:00 - 2025-04-22 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-29 08:00 - 2025-04-29 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-06 08:00 - 2025-05-06 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-13 08:00 - 2025-05-13 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-20 08:00 - 2025-05-20 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-27 08:00 - 2025-05-27 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-06-03 08:00 - 2025-06-03 08:50: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-07 08:50 - 2025-03-07 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-14 08:50 - 2025-03-14 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-21 08:50 - 2025-03-21 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-28 08:50 - 2025-03-28 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-04 08:50 - 2025-04-04 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-11 08:50 - 2025-04-11 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-18 08:50 - 2025-04-18 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-04-25 08:50 - 2025-04-25 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-02 08:50 - 2025-05-02 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-09 08:50 - 2025-05-09 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-16 08:50 - 2025-05-16 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-23 08:50 - 2025-05-23 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-05-30 08:50 - 2025-05-30 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-06-06 08:50 - 2025-06-06 09:40: Introduction to Industry (BCASemSecondm) at D1, Faculty: Divya Bhavani Mohan
+2025-03-04 10:30 - 2025-03-04 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-11 10:30 - 2025-03-11 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-18 10:30 - 2025-03-18 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-25 10:30 - 2025-03-25 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-01 10:30 - 2025-04-01 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-08 10:30 - 2025-04-08 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-15 10:30 - 2025-04-15 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-22 10:30 - 2025-04-22 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-29 10:30 - 2025-04-29 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-06 10:30 - 2025-05-06 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-13 10:30 - 2025-05-13 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-20 10:30 - 2025-05-20 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-27 10:30 - 2025-05-27 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-06-03 10:30 - 2025-06-03 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-07 09:40 - 2025-03-07 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-14 09:40 - 2025-03-14 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-21 09:40 - 2025-03-21 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-28 09:40 - 2025-03-28 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-04 09:40 - 2025-04-04 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-11 09:40 - 2025-04-11 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-18 09:40 - 2025-04-18 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-25 09:40 - 2025-04-25 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-02 09:40 - 2025-05-02 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-09 09:40 - 2025-05-09 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-16 09:40 - 2025-05-16 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-23 09:40 - 2025-05-23 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-30 09:40 - 2025-05-30 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-06-06 09:40 - 2025-06-06 10:30: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-03 08:50 - 2025-03-03 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-10 08:50 - 2025-03-10 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-17 08:50 - 2025-03-17 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-24 08:50 - 2025-03-24 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-31 08:50 - 2025-03-31 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-04-07 08:50 - 2025-04-07 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-04-14 08:50 - 2025-04-14 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-04-21 08:50 - 2025-04-21 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-04-28 08:50 - 2025-04-28 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-05 08:50 - 2025-05-05 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-12 08:50 - 2025-05-12 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-19 08:50 - 2025-05-19 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-05-26 08:50 - 2025-05-26 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-06-02 08:50 - 2025-06-02 09:40: Applied AI (BCASemSecondm) at D1, Faculty: Naveen Kandwal
+2025-03-05 10:30 - 2025-03-05 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-12 10:30 - 2025-03-12 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-19 10:30 - 2025-03-19 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-26 10:30 - 2025-03-26 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-02 10:30 - 2025-04-02 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-09 10:30 - 2025-04-09 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-16 10:30 - 2025-04-16 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-23 10:30 - 2025-04-23 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-30 10:30 - 2025-04-30 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-07 10:30 - 2025-05-07 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-14 10:30 - 2025-05-14 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-21 10:30 - 2025-05-21 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-28 10:30 - 2025-05-28 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-06-04 10:30 - 2025-06-04 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-07 10:30 - 2025-03-07 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-14 10:30 - 2025-03-14 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-21 10:30 - 2025-03-21 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-28 10:30 - 2025-03-28 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-04 10:30 - 2025-04-04 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-11 10:30 - 2025-04-11 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-18 10:30 - 2025-04-18 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-25 10:30 - 2025-04-25 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-02 10:30 - 2025-05-02 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-09 10:30 - 2025-05-09 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-16 10:30 - 2025-05-16 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-23 10:30 - 2025-05-23 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-30 10:30 - 2025-05-30 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-06-06 10:30 - 2025-06-06 11:20: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-06 08:00 - 2025-03-06 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-03-13 08:00 - 2025-03-13 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-03-20 08:00 - 2025-03-20 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-03-27 08:00 - 2025-03-27 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-04-03 08:00 - 2025-04-03 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-04-10 08:00 - 2025-04-10 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-04-17 08:00 - 2025-04-17 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-04-24 08:00 - 2025-04-24 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-05-01 08:00 - 2025-05-01 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-05-08 08:00 - 2025-05-08 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-05-15 08:00 - 2025-05-15 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-05-22 08:00 - 2025-05-22 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-05-29 08:00 - 2025-05-29 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-06-05 08:00 - 2025-06-05 08:50: Indian Knowledge System (MOOC) (BCASemSecondm) at D1, Faculty: Jatin Ambasana
+2025-03-04 08:50 - 2025-03-04 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-11 08:50 - 2025-03-11 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-18 08:50 - 2025-03-18 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-25 08:50 - 2025-03-25 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-01 08:50 - 2025-04-01 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-08 08:50 - 2025-04-08 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-15 08:50 - 2025-04-15 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-22 08:50 - 2025-04-22 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-29 08:50 - 2025-04-29 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-06 08:50 - 2025-05-06 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-13 08:50 - 2025-05-13 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-20 08:50 - 2025-05-20 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-27 08:50 - 2025-05-27 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-06-03 08:50 - 2025-06-03 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-06 10:30 - 2025-03-06 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-13 10:30 - 2025-03-13 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-20 10:30 - 2025-03-20 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-27 10:30 - 2025-03-27 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-03 10:30 - 2025-04-03 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-10 10:30 - 2025-04-10 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-17 10:30 - 2025-04-17 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-04-24 10:30 - 2025-04-24 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-01 10:30 - 2025-05-01 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-08 10:30 - 2025-05-08 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-15 10:30 - 2025-05-15 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-22 10:30 - 2025-05-22 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-05-29 10:30 - 2025-05-29 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-06-05 10:30 - 2025-06-05 11:20: Data Structures and Algorithms (BCASemSecondm) at D1, Faculty: Dr. Kunjan Nayankumar Shah
+2025-03-05 08:50 - 2025-03-05 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-12 08:50 - 2025-03-12 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-19 08:50 - 2025-03-19 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-26 08:50 - 2025-03-26 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-02 08:50 - 2025-04-02 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-09 08:50 - 2025-04-09 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-16 08:50 - 2025-04-16 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-23 08:50 - 2025-04-23 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-04-30 08:50 - 2025-04-30 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-07 08:50 - 2025-05-07 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-14 08:50 - 2025-05-14 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-21 08:50 - 2025-05-21 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-05-28 08:50 - 2025-05-28 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-06-04 08:50 - 2025-06-04 09:40: Professional Communication and Behaviour - I (BCASemSecondm) at D1, Faculty: Rama Maliya
+2025-03-05 13:00 - 2025-03-05 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-12 13:00 - 2025-03-12 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-19 13:00 - 2025-03-19 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-26 13:00 - 2025-03-26 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-02 13:00 - 2025-04-02 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-09 13:00 - 2025-04-09 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-16 13:00 - 2025-04-16 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-23 13:00 - 2025-04-23 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-30 13:00 - 2025-04-30 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-07 13:00 - 2025-05-07 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-14 13:00 - 2025-05-14 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-21 13:00 - 2025-05-21 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-28 13:00 - 2025-05-28 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-06-04 13:00 - 2025-06-04 13:50: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-04 14:40 - 2025-03-04 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-03-11 14:40 - 2025-03-11 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-03-18 14:40 - 2025-03-18 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-03-25 14:40 - 2025-03-25 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-01 14:40 - 2025-04-01 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-08 14:40 - 2025-04-08 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-15 14:40 - 2025-04-15 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-22 14:40 - 2025-04-22 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-29 14:40 - 2025-04-29 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-05-06 14:40 - 2025-05-06 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-05-13 14:40 - 2025-05-13 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-05-20 14:40 - 2025-05-20 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-05-27 14:40 - 2025-05-27 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-06-03 14:40 - 2025-06-03 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-03-06 13:50 - 2025-03-06 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-13 13:50 - 2025-03-13 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-20 13:50 - 2025-03-20 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-27 13:50 - 2025-03-27 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-03 13:50 - 2025-04-03 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-10 13:50 - 2025-04-10 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-17 13:50 - 2025-04-17 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-24 13:50 - 2025-04-24 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-01 13:50 - 2025-05-01 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-08 13:50 - 2025-05-08 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-15 13:50 - 2025-05-15 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-22 13:50 - 2025-05-22 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-29 13:50 - 2025-05-29 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-06-05 13:50 - 2025-06-05 14:40: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-03 14:40 - 2025-03-03 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-10 14:40 - 2025-03-10 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-17 14:40 - 2025-03-17 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-24 14:40 - 2025-03-24 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-31 14:40 - 2025-03-31 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-04-07 14:40 - 2025-04-07 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-04-14 14:40 - 2025-04-14 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-04-21 14:40 - 2025-04-21 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-04-28 14:40 - 2025-04-28 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-05-05 14:40 - 2025-05-05 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-05-12 14:40 - 2025-05-12 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-05-19 14:40 - 2025-05-19 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-05-26 14:40 - 2025-05-26 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-06-02 14:40 - 2025-06-02 15:30: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-05 13:50 - 2025-03-05 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-12 13:50 - 2025-03-12 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-19 13:50 - 2025-03-19 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-26 13:50 - 2025-03-26 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-02 13:50 - 2025-04-02 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-09 13:50 - 2025-04-09 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-16 13:50 - 2025-04-16 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-23 13:50 - 2025-04-23 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-30 13:50 - 2025-04-30 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-07 13:50 - 2025-05-07 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-14 13:50 - 2025-05-14 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-21 13:50 - 2025-05-21 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-28 13:50 - 2025-05-28 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-06-04 13:50 - 2025-06-04 14:40: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-03 15:30 - 2025-03-03 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-10 15:30 - 2025-03-10 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-17 15:30 - 2025-03-17 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-24 15:30 - 2025-03-24 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-31 15:30 - 2025-03-31 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-07 15:30 - 2025-04-07 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-14 15:30 - 2025-04-14 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-21 15:30 - 2025-04-21 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-28 15:30 - 2025-04-28 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-05 15:30 - 2025-05-05 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-12 15:30 - 2025-05-12 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-19 15:30 - 2025-05-19 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-26 15:30 - 2025-05-26 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-06-02 15:30 - 2025-06-02 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-07 13:00 - 2025-03-07 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-03-14 13:00 - 2025-03-14 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-03-21 13:00 - 2025-03-21 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-03-28 13:00 - 2025-03-28 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-04-04 13:00 - 2025-04-04 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-04-11 13:00 - 2025-04-11 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-04-18 13:00 - 2025-04-18 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-04-25 13:00 - 2025-04-25 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-02 13:00 - 2025-05-02 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-09 13:00 - 2025-05-09 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-16 13:00 - 2025-05-16 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-23 13:00 - 2025-05-23 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-30 13:00 - 2025-05-30 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-06-06 13:00 - 2025-06-06 13:50: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-03-07 13:50 - 2025-03-07 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-14 13:50 - 2025-03-14 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-21 13:50 - 2025-03-21 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-28 13:50 - 2025-03-28 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-04 13:50 - 2025-04-04 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-11 13:50 - 2025-04-11 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-18 13:50 - 2025-04-18 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-25 13:50 - 2025-04-25 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-02 13:50 - 2025-05-02 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-09 13:50 - 2025-05-09 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-16 13:50 - 2025-05-16 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-23 13:50 - 2025-05-23 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-30 13:50 - 2025-05-30 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-06-06 13:50 - 2025-06-06 14:40: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-04 13:00 - 2025-03-04 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-11 13:00 - 2025-03-11 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-18 13:00 - 2025-03-18 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-25 13:00 - 2025-03-25 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-01 13:00 - 2025-04-01 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-08 13:00 - 2025-04-08 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-15 13:00 - 2025-04-15 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-22 13:00 - 2025-04-22 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-29 13:00 - 2025-04-29 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-06 13:00 - 2025-05-06 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-13 13:00 - 2025-05-13 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-20 13:00 - 2025-05-20 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-27 13:00 - 2025-05-27 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-06-03 13:00 - 2025-06-03 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-05 15:30 - 2025-03-05 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-12 15:30 - 2025-03-12 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-19 15:30 - 2025-03-19 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-26 15:30 - 2025-03-26 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-02 15:30 - 2025-04-02 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-09 15:30 - 2025-04-09 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-16 15:30 - 2025-04-16 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-23 15:30 - 2025-04-23 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-30 15:30 - 2025-04-30 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-07 15:30 - 2025-05-07 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-14 15:30 - 2025-05-14 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-21 15:30 - 2025-05-21 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-28 15:30 - 2025-05-28 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-06-04 15:30 - 2025-06-04 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-06 15:30 - 2025-03-06 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-03-13 15:30 - 2025-03-13 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-03-20 15:30 - 2025-03-20 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-03-27 15:30 - 2025-03-27 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-04-03 15:30 - 2025-04-03 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-04-10 15:30 - 2025-04-10 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-04-17 15:30 - 2025-04-17 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-04-24 15:30 - 2025-04-24 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-01 15:30 - 2025-05-01 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-08 15:30 - 2025-05-08 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-15 15:30 - 2025-05-15 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-22 15:30 - 2025-05-22 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-05-29 15:30 - 2025-05-29 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-06-05 15:30 - 2025-06-05 16:20: Applied AI (BTECH-CSE+DSSemSecondn) at D1, Faculty: Manender Dutt
+2025-03-07 14:40 - 2025-03-07 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-03-14 14:40 - 2025-03-14 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-03-21 14:40 - 2025-03-21 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-03-28 14:40 - 2025-03-28 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-04 14:40 - 2025-04-04 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-11 14:40 - 2025-04-11 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-18 14:40 - 2025-04-18 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-25 14:40 - 2025-04-25 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-02 14:40 - 2025-05-02 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-09 14:40 - 2025-05-09 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-16 14:40 - 2025-05-16 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-23 14:40 - 2025-05-23 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-30 14:40 - 2025-05-30 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-06-06 14:40 - 2025-06-06 15:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-03-05 14:40 - 2025-03-05 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-03-12 14:40 - 2025-03-12 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-03-19 14:40 - 2025-03-19 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-03-26 14:40 - 2025-03-26 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-02 14:40 - 2025-04-02 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-09 14:40 - 2025-04-09 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-16 14:40 - 2025-04-16 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-23 14:40 - 2025-04-23 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-04-30 14:40 - 2025-04-30 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-05-07 14:40 - 2025-05-07 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-05-14 14:40 - 2025-05-14 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-05-21 14:40 - 2025-05-21 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-05-28 14:40 - 2025-05-28 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-06-04 14:40 - 2025-06-04 15:30: Applied Physics (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Roshan Gangurde
+2025-03-07 15:30 - 2025-03-07 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-14 15:30 - 2025-03-14 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-21 15:30 - 2025-03-21 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-28 15:30 - 2025-03-28 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-04 15:30 - 2025-04-04 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-11 15:30 - 2025-04-11 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-18 15:30 - 2025-04-18 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-04-25 15:30 - 2025-04-25 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-02 15:30 - 2025-05-02 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-09 15:30 - 2025-05-09 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-16 15:30 - 2025-05-16 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-23 15:30 - 2025-05-23 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-05-30 15:30 - 2025-05-30 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-06-06 15:30 - 2025-06-06 16:20: Python Programming (BTECH-CSE+DSSemSecondn) at D1, Faculty: Arvind Singh
+2025-03-03 13:50 - 2025-03-03 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-10 13:50 - 2025-03-10 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-17 13:50 - 2025-03-17 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-24 13:50 - 2025-03-24 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-31 13:50 - 2025-03-31 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-04-07 13:50 - 2025-04-07 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-04-14 13:50 - 2025-04-14 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-04-21 13:50 - 2025-04-21 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-04-28 13:50 - 2025-04-28 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-05-05 13:50 - 2025-05-05 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-05-12 13:50 - 2025-05-12 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-05-19 13:50 - 2025-05-19 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-05-26 13:50 - 2025-05-26 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-06-02 13:50 - 2025-06-02 14:40: Psychology (BTECH-CSE+DSSemSecondn) at D1, Faculty: Sanjay Ajani
+2025-03-03 13:00 - 2025-03-03 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-10 13:00 - 2025-03-10 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-17 13:00 - 2025-03-17 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-24 13:00 - 2025-03-24 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-31 13:00 - 2025-03-31 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-07 13:00 - 2025-04-07 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-14 13:00 - 2025-04-14 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-21 13:00 - 2025-04-21 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-04-28 13:00 - 2025-04-28 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-05 13:00 - 2025-05-05 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-12 13:00 - 2025-05-12 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-19 13:00 - 2025-05-19 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-05-26 13:00 - 2025-05-26 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-06-02 13:00 - 2025-06-02 13:50: Engineering Mathematics - II (BTECH-CSE+DSSemSecondn) at D1, Faculty: Anamika Singh
+2025-03-04 15:30 - 2025-03-04 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-03-11 15:30 - 2025-03-11 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-03-18 15:30 - 2025-03-18 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-03-25 15:30 - 2025-03-25 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-01 15:30 - 2025-04-01 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-08 15:30 - 2025-04-08 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-15 15:30 - 2025-04-15 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-22 15:30 - 2025-04-22 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-04-29 15:30 - 2025-04-29 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-06 15:30 - 2025-05-06 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-13 15:30 - 2025-05-13 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-20 15:30 - 2025-05-20 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-05-27 15:30 - 2025-05-27 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-06-03 15:30 - 2025-06-03 16:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Kusum Agarwal
+2025-03-06 14:40 - 2025-03-06 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-13 14:40 - 2025-03-13 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-20 14:40 - 2025-03-20 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-27 14:40 - 2025-03-27 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-03 14:40 - 2025-04-03 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-10 14:40 - 2025-04-10 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-17 14:40 - 2025-04-17 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-04-24 14:40 - 2025-04-24 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-01 14:40 - 2025-05-01 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-08 14:40 - 2025-05-08 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-15 14:40 - 2025-05-15 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-22 14:40 - 2025-05-22 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-05-29 14:40 - 2025-05-29 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-06-05 14:40 - 2025-06-05 15:30: Basic Electrical and Electronics Engineering (BTECH-CSE+DSSemSecondn) at D1, Faculty: Dr. Gaurav Londhe
+2025-03-06 13:00 - 2025-03-06 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-03-13 13:00 - 2025-03-13 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-03-20 13:00 - 2025-03-20 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-03-27 13:00 - 2025-03-27 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-04-03 13:00 - 2025-04-03 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-04-10 13:00 - 2025-04-10 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-04-17 13:00 - 2025-04-17 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-04-24 13:00 - 2025-04-24 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-05-01 13:00 - 2025-05-01 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-05-08 13:00 - 2025-05-08 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-05-15 13:00 - 2025-05-15 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-05-22 13:00 - 2025-05-22 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-05-29 13:00 - 2025-05-29 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-06-05 13:00 - 2025-06-05 13:50: Red Hat Academy Course (GSS-RHA) (BTECH-CSE+DSSemSecondn) at D1, Faculty: Tarunjit Yumnam
+2025-03-05 14:40 - 2025-03-05 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-12 14:40 - 2025-03-12 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-19 14:40 - 2025-03-19 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-26 14:40 - 2025-03-26 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-02 14:40 - 2025-04-02 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-09 14:40 - 2025-04-09 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-16 14:40 - 2025-04-16 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-23 14:40 - 2025-04-23 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-30 14:40 - 2025-04-30 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-07 14:40 - 2025-05-07 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-14 14:40 - 2025-05-14 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-21 14:40 - 2025-05-21 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-28 14:40 - 2025-05-28 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-06-04 14:40 - 2025-06-04 15:30: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-05 15:30 - 2025-03-05 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-12 15:30 - 2025-03-12 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-19 15:30 - 2025-03-19 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-26 15:30 - 2025-03-26 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-02 15:30 - 2025-04-02 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-09 15:30 - 2025-04-09 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-16 15:30 - 2025-04-16 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-23 15:30 - 2025-04-23 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-30 15:30 - 2025-04-30 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-07 15:30 - 2025-05-07 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-14 15:30 - 2025-05-14 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-21 15:30 - 2025-05-21 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-28 15:30 - 2025-05-28 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-06-04 15:30 - 2025-06-04 16:20: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-06 13:00 - 2025-03-06 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-13 13:00 - 2025-03-13 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-20 13:00 - 2025-03-20 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-27 13:00 - 2025-03-27 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-03 13:00 - 2025-04-03 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-10 13:00 - 2025-04-10 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-17 13:00 - 2025-04-17 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-24 13:00 - 2025-04-24 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-01 13:00 - 2025-05-01 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-08 13:00 - 2025-05-08 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-15 13:00 - 2025-05-15 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-22 13:00 - 2025-05-22 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-29 13:00 - 2025-05-29 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-06-05 13:00 - 2025-06-05 13:50: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-07 15:30 - 2025-03-07 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-14 15:30 - 2025-03-14 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-21 15:30 - 2025-03-21 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-28 15:30 - 2025-03-28 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-04 15:30 - 2025-04-04 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-11 15:30 - 2025-04-11 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-18 15:30 - 2025-04-18 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-25 15:30 - 2025-04-25 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-02 15:30 - 2025-05-02 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-09 15:30 - 2025-05-09 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-16 15:30 - 2025-05-16 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-23 15:30 - 2025-05-23 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-30 15:30 - 2025-05-30 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-06-06 15:30 - 2025-06-06 16:20: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-05 13:50 - 2025-03-05 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-03-12 13:50 - 2025-03-12 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-03-19 13:50 - 2025-03-19 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-03-26 13:50 - 2025-03-26 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-02 13:50 - 2025-04-02 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-09 13:50 - 2025-04-09 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-16 13:50 - 2025-04-16 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-23 13:50 - 2025-04-23 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-30 13:50 - 2025-04-30 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-07 13:50 - 2025-05-07 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-14 13:50 - 2025-05-14 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-21 13:50 - 2025-05-21 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-28 13:50 - 2025-05-28 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-06-04 13:50 - 2025-06-04 14:40: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-03-03 13:00 - 2025-03-03 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-10 13:00 - 2025-03-10 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-17 13:00 - 2025-03-17 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-24 13:00 - 2025-03-24 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-31 13:00 - 2025-03-31 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-07 13:00 - 2025-04-07 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-14 13:00 - 2025-04-14 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-21 13:00 - 2025-04-21 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-28 13:00 - 2025-04-28 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-05-05 13:00 - 2025-05-05 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-05-12 13:00 - 2025-05-12 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-05-19 13:00 - 2025-05-19 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-05-26 13:00 - 2025-05-26 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-06-02 13:00 - 2025-06-02 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-03 13:50 - 2025-03-03 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-10 13:50 - 2025-03-10 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-17 13:50 - 2025-03-17 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-24 13:50 - 2025-03-24 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-31 13:50 - 2025-03-31 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-07 13:50 - 2025-04-07 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-14 13:50 - 2025-04-14 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-21 13:50 - 2025-04-21 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-28 13:50 - 2025-04-28 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-05 13:50 - 2025-05-05 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-12 13:50 - 2025-05-12 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-19 13:50 - 2025-05-19 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-26 13:50 - 2025-05-26 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-06-02 13:50 - 2025-06-02 14:40: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-04 14:40 - 2025-03-04 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-11 14:40 - 2025-03-11 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-18 14:40 - 2025-03-18 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-25 14:40 - 2025-03-25 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-01 14:40 - 2025-04-01 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-08 14:40 - 2025-04-08 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-15 14:40 - 2025-04-15 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-22 14:40 - 2025-04-22 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-29 14:40 - 2025-04-29 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-06 14:40 - 2025-05-06 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-13 14:40 - 2025-05-13 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-20 14:40 - 2025-05-20 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-27 14:40 - 2025-05-27 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-06-03 14:40 - 2025-06-03 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-07 13:50 - 2025-03-07 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-14 13:50 - 2025-03-14 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-21 13:50 - 2025-03-21 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-28 13:50 - 2025-03-28 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-04 13:50 - 2025-04-04 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-11 13:50 - 2025-04-11 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-18 13:50 - 2025-04-18 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-04-25 13:50 - 2025-04-25 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-02 13:50 - 2025-05-02 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-09 13:50 - 2025-05-09 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-16 13:50 - 2025-05-16 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-23 13:50 - 2025-05-23 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-05-30 13:50 - 2025-05-30 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-06-06 13:50 - 2025-06-06 14:40: Engineering Mathematics - II (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Muneer Nabi
+2025-03-04 13:50 - 2025-03-04 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-03-11 13:50 - 2025-03-11 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-03-18 13:50 - 2025-03-18 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-03-25 13:50 - 2025-03-25 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-04-01 13:50 - 2025-04-01 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-04-08 13:50 - 2025-04-08 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-04-15 13:50 - 2025-04-15 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-04-22 13:50 - 2025-04-22 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-04-29 13:50 - 2025-04-29 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-05-06 13:50 - 2025-05-06 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-05-13 13:50 - 2025-05-13 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-05-20 13:50 - 2025-05-20 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-05-27 13:50 - 2025-05-27 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-06-03 13:50 - 2025-06-03 14:40: Python Programming (BTECH-CYBERSemSecondn) at D1, Faculty: Deepansh Raj
+2025-03-06 15:30 - 2025-03-06 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-03-13 15:30 - 2025-03-13 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-03-20 15:30 - 2025-03-20 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-03-27 15:30 - 2025-03-27 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-03 15:30 - 2025-04-03 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-10 15:30 - 2025-04-10 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-17 15:30 - 2025-04-17 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-04-24 15:30 - 2025-04-24 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-01 15:30 - 2025-05-01 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-08 15:30 - 2025-05-08 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-15 15:30 - 2025-05-15 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-22 15:30 - 2025-05-22 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-05-29 15:30 - 2025-05-29 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-06-05 15:30 - 2025-06-05 16:20: Cyber Law and Ethics (Industry) (BTECH-CYBERSemSecondn) at D2, Faculty: Dr. Chandan Kumawat
+2025-03-03 14:40 - 2025-03-03 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-10 14:40 - 2025-03-10 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-17 14:40 - 2025-03-17 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-24 14:40 - 2025-03-24 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-31 14:40 - 2025-03-31 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-07 14:40 - 2025-04-07 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-14 14:40 - 2025-04-14 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-21 14:40 - 2025-04-21 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-28 14:40 - 2025-04-28 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-05 14:40 - 2025-05-05 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-12 14:40 - 2025-05-12 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-19 14:40 - 2025-05-19 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-26 14:40 - 2025-05-26 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-06-02 14:40 - 2025-06-02 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-06 14:40 - 2025-03-06 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-13 14:40 - 2025-03-13 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-20 14:40 - 2025-03-20 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-27 14:40 - 2025-03-27 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-03 14:40 - 2025-04-03 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-10 14:40 - 2025-04-10 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-17 14:40 - 2025-04-17 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-04-24 14:40 - 2025-04-24 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-01 14:40 - 2025-05-01 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-08 14:40 - 2025-05-08 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-15 14:40 - 2025-05-15 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-22 14:40 - 2025-05-22 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-05-29 14:40 - 2025-05-29 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-06-05 14:40 - 2025-06-05 15:30: Engineering Design and Workshop Practice Simulation (BTECH-CYBERSemSecondn) at D2, Faculty: Ritu Sharma
+2025-03-07 13:00 - 2025-03-07 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-03-14 13:00 - 2025-03-14 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-03-21 13:00 - 2025-03-21 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-03-28 13:00 - 2025-03-28 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-04 13:00 - 2025-04-04 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-11 13:00 - 2025-04-11 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-18 13:00 - 2025-04-18 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-25 13:00 - 2025-04-25 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-02 13:00 - 2025-05-02 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-09 13:00 - 2025-05-09 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-16 13:00 - 2025-05-16 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-23 13:00 - 2025-05-23 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-30 13:00 - 2025-05-30 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-06-06 13:00 - 2025-06-06 13:50: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-03-06 13:50 - 2025-03-06 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-13 13:50 - 2025-03-13 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-20 13:50 - 2025-03-20 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-27 13:50 - 2025-03-27 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-03 13:50 - 2025-04-03 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-10 13:50 - 2025-04-10 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-17 13:50 - 2025-04-17 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-24 13:50 - 2025-04-24 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-01 13:50 - 2025-05-01 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-08 13:50 - 2025-05-08 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-15 13:50 - 2025-05-15 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-22 13:50 - 2025-05-22 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-29 13:50 - 2025-05-29 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-06-05 13:50 - 2025-06-05 14:40: Indian Knowledge System (SWAYAM - MOOC) (BTECH-CYBERSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-04 15:30 - 2025-03-04 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-03-11 15:30 - 2025-03-11 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-03-18 15:30 - 2025-03-18 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-03-25 15:30 - 2025-03-25 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-01 15:30 - 2025-04-01 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-08 15:30 - 2025-04-08 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-15 15:30 - 2025-04-15 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-22 15:30 - 2025-04-22 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-04-29 15:30 - 2025-04-29 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-06 15:30 - 2025-05-06 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-13 15:30 - 2025-05-13 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-20 15:30 - 2025-05-20 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-05-27 15:30 - 2025-05-27 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-06-03 15:30 - 2025-06-03 16:20: Applied AI (BTECH-CYBERSemSecondn) at D2, Faculty: Amit Saini
+2025-03-07 14:40 - 2025-03-07 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-14 14:40 - 2025-03-14 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-21 14:40 - 2025-03-21 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-28 14:40 - 2025-03-28 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-04 14:40 - 2025-04-04 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-11 14:40 - 2025-04-11 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-18 14:40 - 2025-04-18 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-04-25 14:40 - 2025-04-25 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-02 14:40 - 2025-05-02 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-09 14:40 - 2025-05-09 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-16 14:40 - 2025-05-16 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-23 14:40 - 2025-05-23 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-05-30 14:40 - 2025-05-30 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-06-06 14:40 - 2025-06-06 15:30: Python Programming (BTECH-CYBERSemSecondn) at D2, Faculty: Deepansh Raj
+2025-03-05 13:00 - 2025-03-05 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-03-12 13:00 - 2025-03-12 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-03-19 13:00 - 2025-03-19 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-03-26 13:00 - 2025-03-26 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-04-02 13:00 - 2025-04-02 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-04-09 13:00 - 2025-04-09 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-04-16 13:00 - 2025-04-16 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-04-23 13:00 - 2025-04-23 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-04-30 13:00 - 2025-04-30 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-05-07 13:00 - 2025-05-07 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-05-14 13:00 - 2025-05-14 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-05-21 13:00 - 2025-05-21 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-05-28 13:00 - 2025-05-28 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-06-04 13:00 - 2025-06-04 13:50: Psychology (BTECH-CYBERSemSecondn) at D2, Faculty: Yuvraj Jani
+2025-03-04 13:00 - 2025-03-04 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-11 13:00 - 2025-03-11 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-18 13:00 - 2025-03-18 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-25 13:00 - 2025-03-25 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-01 13:00 - 2025-04-01 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-08 13:00 - 2025-04-08 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-15 13:00 - 2025-04-15 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-22 13:00 - 2025-04-22 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-04-29 13:00 - 2025-04-29 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-05-06 13:00 - 2025-05-06 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-05-13 13:00 - 2025-05-13 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-05-20 13:00 - 2025-05-20 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-05-27 13:00 - 2025-05-27 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-06-03 13:00 - 2025-06-03 13:50: Data Structures (BTECH-CYBERSemSecondn) at D2, Faculty: Shubham Khari
+2025-03-03 09:40 - 2025-03-03 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-03-10 09:40 - 2025-03-10 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-03-17 09:40 - 2025-03-17 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-03-24 09:40 - 2025-03-24 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-03-31 09:40 - 2025-03-31 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-04-07 09:40 - 2025-04-07 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-04-14 09:40 - 2025-04-14 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-04-21 09:40 - 2025-04-21 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-04-28 09:40 - 2025-04-28 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-05-05 09:40 - 2025-05-05 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-05-12 09:40 - 2025-05-12 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-05-19 09:40 - 2025-05-19 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-05-26 09:40 - 2025-05-26 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-06-02 09:40 - 2025-06-02 10:30: Psychology (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Udit Dave
+2025-03-05 08:50 - 2025-03-05 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-12 08:50 - 2025-03-12 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-19 08:50 - 2025-03-19 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-26 08:50 - 2025-03-26 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-02 08:50 - 2025-04-02 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-09 08:50 - 2025-04-09 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-16 08:50 - 2025-04-16 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-23 08:50 - 2025-04-23 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-30 08:50 - 2025-04-30 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-07 08:50 - 2025-05-07 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-14 08:50 - 2025-05-14 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-21 08:50 - 2025-05-21 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-28 08:50 - 2025-05-28 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-06-04 08:50 - 2025-06-04 09:40: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-07 10:30 - 2025-03-07 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-03-14 10:30 - 2025-03-14 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-03-21 10:30 - 2025-03-21 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-03-28 10:30 - 2025-03-28 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-04-04 10:30 - 2025-04-04 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-04-11 10:30 - 2025-04-11 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-04-18 10:30 - 2025-04-18 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-04-25 10:30 - 2025-04-25 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-02 10:30 - 2025-05-02 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-09 10:30 - 2025-05-09 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-16 10:30 - 2025-05-16 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-23 10:30 - 2025-05-23 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-30 10:30 - 2025-05-30 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-06-06 10:30 - 2025-06-06 11:20: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-03-04 08:50 - 2025-03-04 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-11 08:50 - 2025-03-11 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-18 08:50 - 2025-03-18 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-25 08:50 - 2025-03-25 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-01 08:50 - 2025-04-01 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-08 08:50 - 2025-04-08 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-15 08:50 - 2025-04-15 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-22 08:50 - 2025-04-22 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-29 08:50 - 2025-04-29 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-06 08:50 - 2025-05-06 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-13 08:50 - 2025-05-13 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-20 08:50 - 2025-05-20 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-27 08:50 - 2025-05-27 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-06-03 08:50 - 2025-06-03 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-06 08:50 - 2025-03-06 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-13 08:50 - 2025-03-13 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-20 08:50 - 2025-03-20 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-27 08:50 - 2025-03-27 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-03 08:50 - 2025-04-03 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-10 08:50 - 2025-04-10 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-17 08:50 - 2025-04-17 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-24 08:50 - 2025-04-24 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-01 08:50 - 2025-05-01 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-08 08:50 - 2025-05-08 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-15 08:50 - 2025-05-15 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-22 08:50 - 2025-05-22 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-29 08:50 - 2025-05-29 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-05 08:50 - 2025-06-05 09:40: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-04 08:00 - 2025-03-04 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-11 08:00 - 2025-03-11 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-18 08:00 - 2025-03-18 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-25 08:00 - 2025-03-25 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-01 08:00 - 2025-04-01 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-08 08:00 - 2025-04-08 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-15 08:00 - 2025-04-15 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-22 08:00 - 2025-04-22 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-29 08:00 - 2025-04-29 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-06 08:00 - 2025-05-06 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-13 08:00 - 2025-05-13 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-20 08:00 - 2025-05-20 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-27 08:00 - 2025-05-27 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-03 08:00 - 2025-06-03 08:50: Applied AI (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-03 08:50 - 2025-03-03 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-10 08:50 - 2025-03-10 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-17 08:50 - 2025-03-17 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-24 08:50 - 2025-03-24 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-31 08:50 - 2025-03-31 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-07 08:50 - 2025-04-07 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-14 08:50 - 2025-04-14 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-21 08:50 - 2025-04-21 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-28 08:50 - 2025-04-28 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-05 08:50 - 2025-05-05 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-12 08:50 - 2025-05-12 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-19 08:50 - 2025-05-19 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-26 08:50 - 2025-05-26 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-06-02 08:50 - 2025-06-02 09:40: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-04 10:30 - 2025-03-04 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-11 10:30 - 2025-03-11 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-18 10:30 - 2025-03-18 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-25 10:30 - 2025-03-25 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-01 10:30 - 2025-04-01 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-08 10:30 - 2025-04-08 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-15 10:30 - 2025-04-15 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-22 10:30 - 2025-04-22 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-29 10:30 - 2025-04-29 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-06 10:30 - 2025-05-06 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-13 10:30 - 2025-05-13 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-20 10:30 - 2025-05-20 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-27 10:30 - 2025-05-27 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-03 10:30 - 2025-06-03 11:20: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-06 08:00 - 2025-03-06 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-13 08:00 - 2025-03-13 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-20 08:00 - 2025-03-20 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-27 08:00 - 2025-03-27 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-03 08:00 - 2025-04-03 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-10 08:00 - 2025-04-10 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-17 08:00 - 2025-04-17 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-24 08:00 - 2025-04-24 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-01 08:00 - 2025-05-01 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-08 08:00 - 2025-05-08 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-15 08:00 - 2025-05-15 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-22 08:00 - 2025-05-22 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-29 08:00 - 2025-05-29 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-06-05 08:00 - 2025-06-05 08:50: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-03 08:00 - 2025-03-03 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-10 08:00 - 2025-03-10 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-17 08:00 - 2025-03-17 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-24 08:00 - 2025-03-24 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-31 08:00 - 2025-03-31 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-07 08:00 - 2025-04-07 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-14 08:00 - 2025-04-14 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-21 08:00 - 2025-04-21 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-28 08:00 - 2025-04-28 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-05 08:00 - 2025-05-05 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-12 08:00 - 2025-05-12 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-19 08:00 - 2025-05-19 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-26 08:00 - 2025-05-26 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-02 08:00 - 2025-06-02 08:50: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-05 09:40 - 2025-03-05 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-12 09:40 - 2025-03-12 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-19 09:40 - 2025-03-19 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-26 09:40 - 2025-03-26 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-02 09:40 - 2025-04-02 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-09 09:40 - 2025-04-09 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-16 09:40 - 2025-04-16 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-23 09:40 - 2025-04-23 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-04-30 09:40 - 2025-04-30 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-07 09:40 - 2025-05-07 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-14 09:40 - 2025-05-14 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-21 09:40 - 2025-05-21 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-05-28 09:40 - 2025-05-28 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-06-04 09:40 - 2025-06-04 10:30: Engineering Mathematics - II (BTECH-AIML+ECE+ICTSemSecondm) at D1, Faculty: Dr. Animesh Kumar Agrawal
+2025-03-04 09:40 - 2025-03-04 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-11 09:40 - 2025-03-11 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-18 09:40 - 2025-03-18 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-25 09:40 - 2025-03-25 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-01 09:40 - 2025-04-01 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-08 09:40 - 2025-04-08 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-15 09:40 - 2025-04-15 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-22 09:40 - 2025-04-22 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-29 09:40 - 2025-04-29 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-06 09:40 - 2025-05-06 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-13 09:40 - 2025-05-13 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-20 09:40 - 2025-05-20 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-27 09:40 - 2025-05-27 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-03 09:40 - 2025-06-03 10:30: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-07 08:00 - 2025-03-07 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-03-14 08:00 - 2025-03-14 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-03-21 08:00 - 2025-03-21 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-03-28 08:00 - 2025-03-28 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-04-04 08:00 - 2025-04-04 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-04-11 08:00 - 2025-04-11 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-04-18 08:00 - 2025-04-18 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-04-25 08:00 - 2025-04-25 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-02 08:00 - 2025-05-02 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-09 08:00 - 2025-05-09 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-16 08:00 - 2025-05-16 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-23 08:00 - 2025-05-23 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-05-30 08:00 - 2025-05-30 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-06-06 08:00 - 2025-06-06 08:50: Data Structures (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Shikha Deep
+2025-03-06 10:30 - 2025-03-06 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-13 10:30 - 2025-03-13 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-20 10:30 - 2025-03-20 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-27 10:30 - 2025-03-27 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-03 10:30 - 2025-04-03 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-10 10:30 - 2025-04-10 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-17 10:30 - 2025-04-17 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-24 10:30 - 2025-04-24 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-01 10:30 - 2025-05-01 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-08 10:30 - 2025-05-08 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-15 10:30 - 2025-05-15 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-22 10:30 - 2025-05-22 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-29 10:30 - 2025-05-29 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-05 10:30 - 2025-06-05 11:20: Indian Knowledge System (SWAYAM - MOOC) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-05 08:00 - 2025-03-05 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-12 08:00 - 2025-03-12 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-19 08:00 - 2025-03-19 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-26 08:00 - 2025-03-26 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-02 08:00 - 2025-04-02 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-09 08:00 - 2025-04-09 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-16 08:00 - 2025-04-16 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-23 08:00 - 2025-04-23 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-30 08:00 - 2025-04-30 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-07 08:00 - 2025-05-07 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-14 08:00 - 2025-05-14 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-21 08:00 - 2025-05-21 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-28 08:00 - 2025-05-28 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-06-04 08:00 - 2025-06-04 08:50: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-03 10:30 - 2025-03-03 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-10 10:30 - 2025-03-10 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-17 10:30 - 2025-03-17 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-24 10:30 - 2025-03-24 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-31 10:30 - 2025-03-31 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-07 10:30 - 2025-04-07 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-14 10:30 - 2025-04-14 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-21 10:30 - 2025-04-21 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-28 10:30 - 2025-04-28 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-05 10:30 - 2025-05-05 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-12 10:30 - 2025-05-12 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-19 10:30 - 2025-05-19 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-26 10:30 - 2025-05-26 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-02 10:30 - 2025-06-02 11:20: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-06 09:40 - 2025-03-06 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-13 09:40 - 2025-03-13 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-20 09:40 - 2025-03-20 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-27 09:40 - 2025-03-27 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-03 09:40 - 2025-04-03 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-10 09:40 - 2025-04-10 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-17 09:40 - 2025-04-17 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-24 09:40 - 2025-04-24 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-01 09:40 - 2025-05-01 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-08 09:40 - 2025-05-08 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-15 09:40 - 2025-05-15 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-22 09:40 - 2025-05-22 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-29 09:40 - 2025-05-29 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-05 09:40 - 2025-06-05 10:30: Engineering Design and Workshop Practice Simulation (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-05 10:30 - 2025-03-05 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-12 10:30 - 2025-03-12 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-19 10:30 - 2025-03-19 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-26 10:30 - 2025-03-26 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-02 10:30 - 2025-04-02 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-09 10:30 - 2025-04-09 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-16 10:30 - 2025-04-16 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-23 10:30 - 2025-04-23 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-04-30 10:30 - 2025-04-30 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-07 10:30 - 2025-05-07 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-14 10:30 - 2025-05-14 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-21 10:30 - 2025-05-21 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-05-28 10:30 - 2025-05-28 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-06-04 10:30 - 2025-06-04 11:20: Python Programming (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Dr. Alok Behera
+2025-03-07 09:40 - 2025-03-07 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-14 09:40 - 2025-03-14 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-21 09:40 - 2025-03-21 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-28 09:40 - 2025-03-28 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-04 09:40 - 2025-04-04 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-11 09:40 - 2025-04-11 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-18 09:40 - 2025-04-18 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-04-25 09:40 - 2025-04-25 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-02 09:40 - 2025-05-02 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-09 09:40 - 2025-05-09 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-16 09:40 - 2025-05-16 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-23 09:40 - 2025-05-23 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-05-30 09:40 - 2025-05-30 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-06-06 09:40 - 2025-06-06 10:30: Red Hat Academy Course (GSS-RHA) (BTECH-AIML+ECE+ICTSemSecondm) at D2, Faculty: Unknown
+2025-03-05 10:30 - 2025-03-05 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-12 10:30 - 2025-03-12 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-19 10:30 - 2025-03-19 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-26 10:30 - 2025-03-26 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-02 10:30 - 2025-04-02 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-09 10:30 - 2025-04-09 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-16 10:30 - 2025-04-16 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-23 10:30 - 2025-04-23 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-30 10:30 - 2025-04-30 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-07 10:30 - 2025-05-07 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-14 10:30 - 2025-05-14 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-21 10:30 - 2025-05-21 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-28 10:30 - 2025-05-28 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-06-04 10:30 - 2025-06-04 11:20: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-05 08:50 - 2025-03-05 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-12 08:50 - 2025-03-12 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-19 08:50 - 2025-03-19 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-26 08:50 - 2025-03-26 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-02 08:50 - 2025-04-02 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-09 08:50 - 2025-04-09 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-16 08:50 - 2025-04-16 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-23 08:50 - 2025-04-23 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-30 08:50 - 2025-04-30 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-07 08:50 - 2025-05-07 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-14 08:50 - 2025-05-14 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-21 08:50 - 2025-05-21 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-28 08:50 - 2025-05-28 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-06-04 08:50 - 2025-06-04 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-04 08:50 - 2025-03-04 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-11 08:50 - 2025-03-11 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-18 08:50 - 2025-03-18 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-25 08:50 - 2025-03-25 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-01 08:50 - 2025-04-01 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-08 08:50 - 2025-04-08 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-15 08:50 - 2025-04-15 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-22 08:50 - 2025-04-22 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-29 08:50 - 2025-04-29 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-06 08:50 - 2025-05-06 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-13 08:50 - 2025-05-13 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-20 08:50 - 2025-05-20 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-27 08:50 - 2025-05-27 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-06-03 08:50 - 2025-06-03 09:40: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-07 10:30 - 2025-03-07 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-14 10:30 - 2025-03-14 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-21 10:30 - 2025-03-21 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-28 10:30 - 2025-03-28 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-04 10:30 - 2025-04-04 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-11 10:30 - 2025-04-11 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-18 10:30 - 2025-04-18 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-25 10:30 - 2025-04-25 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-02 10:30 - 2025-05-02 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-09 10:30 - 2025-05-09 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-16 10:30 - 2025-05-16 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-23 10:30 - 2025-05-23 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-30 10:30 - 2025-05-30 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-06-06 10:30 - 2025-06-06 11:20: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-06 09:40 - 2025-03-06 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-13 09:40 - 2025-03-13 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-20 09:40 - 2025-03-20 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-27 09:40 - 2025-03-27 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-03 09:40 - 2025-04-03 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-10 09:40 - 2025-04-10 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-17 09:40 - 2025-04-17 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-24 09:40 - 2025-04-24 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-01 09:40 - 2025-05-01 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-08 09:40 - 2025-05-08 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-15 09:40 - 2025-05-15 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-22 09:40 - 2025-05-22 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-29 09:40 - 2025-05-29 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-06-05 09:40 - 2025-06-05 10:30: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-04 10:30 - 2025-03-04 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-11 10:30 - 2025-03-11 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-18 10:30 - 2025-03-18 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-25 10:30 - 2025-03-25 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-01 10:30 - 2025-04-01 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-08 10:30 - 2025-04-08 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-15 10:30 - 2025-04-15 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-22 10:30 - 2025-04-22 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-29 10:30 - 2025-04-29 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-06 10:30 - 2025-05-06 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-13 10:30 - 2025-05-13 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-20 10:30 - 2025-05-20 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-27 10:30 - 2025-05-27 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-06-03 10:30 - 2025-06-03 11:20: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-07 08:50 - 2025-03-07 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-03-14 08:50 - 2025-03-14 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-03-21 08:50 - 2025-03-21 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-03-28 08:50 - 2025-03-28 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-04 08:50 - 2025-04-04 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-11 08:50 - 2025-04-11 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-18 08:50 - 2025-04-18 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-25 08:50 - 2025-04-25 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-02 08:50 - 2025-05-02 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-09 08:50 - 2025-05-09 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-16 08:50 - 2025-05-16 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-23 08:50 - 2025-05-23 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-30 08:50 - 2025-05-30 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-06-06 08:50 - 2025-06-06 09:40: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-03-03 08:50 - 2025-03-03 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-03-10 08:50 - 2025-03-10 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-03-17 08:50 - 2025-03-17 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-03-24 08:50 - 2025-03-24 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-03-31 08:50 - 2025-03-31 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-04-07 08:50 - 2025-04-07 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-04-14 08:50 - 2025-04-14 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-04-21 08:50 - 2025-04-21 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-04-28 08:50 - 2025-04-28 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-05-05 08:50 - 2025-05-05 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-05-12 08:50 - 2025-05-12 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-05-19 08:50 - 2025-05-19 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-05-26 08:50 - 2025-05-26 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-06-02 08:50 - 2025-06-02 09:40: Psychology (INTEGRATED MSSemSecondm) at D3, Faculty: Yuvraj Jani
+2025-03-03 10:30 - 2025-03-03 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-10 10:30 - 2025-03-10 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-17 10:30 - 2025-03-17 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-24 10:30 - 2025-03-24 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-31 10:30 - 2025-03-31 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-04-07 10:30 - 2025-04-07 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-04-14 10:30 - 2025-04-14 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-04-21 10:30 - 2025-04-21 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-04-28 10:30 - 2025-04-28 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-05-05 10:30 - 2025-05-05 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-05-12 10:30 - 2025-05-12 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-05-19 10:30 - 2025-05-19 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-05-26 10:30 - 2025-05-26 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-06-02 10:30 - 2025-06-02 11:20: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-04 09:40 - 2025-03-04 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-11 09:40 - 2025-03-11 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-18 09:40 - 2025-03-18 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-25 09:40 - 2025-03-25 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-01 09:40 - 2025-04-01 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-08 09:40 - 2025-04-08 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-15 09:40 - 2025-04-15 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-22 09:40 - 2025-04-22 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-29 09:40 - 2025-04-29 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-06 09:40 - 2025-05-06 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-13 09:40 - 2025-05-13 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-20 09:40 - 2025-05-20 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-27 09:40 - 2025-05-27 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-06-03 09:40 - 2025-06-03 10:30: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-03 09:40 - 2025-03-03 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-10 09:40 - 2025-03-10 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-17 09:40 - 2025-03-17 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-24 09:40 - 2025-03-24 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-31 09:40 - 2025-03-31 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-04-07 09:40 - 2025-04-07 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-04-14 09:40 - 2025-04-14 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-04-21 09:40 - 2025-04-21 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-04-28 09:40 - 2025-04-28 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-05-05 09:40 - 2025-05-05 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-05-12 09:40 - 2025-05-12 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-05-19 09:40 - 2025-05-19 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-05-26 09:40 - 2025-05-26 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-06-02 09:40 - 2025-06-02 10:30: Professional Communication and Behaviour - I (INTEGRATED MSSemSecondm) at D3, Faculty: Rama Maliya
+2025-03-06 08:50 - 2025-03-06 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-13 08:50 - 2025-03-13 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-20 08:50 - 2025-03-20 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-27 08:50 - 2025-03-27 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-03 08:50 - 2025-04-03 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-10 08:50 - 2025-04-10 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-17 08:50 - 2025-04-17 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-24 08:50 - 2025-04-24 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-01 08:50 - 2025-05-01 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-08 08:50 - 2025-05-08 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-15 08:50 - 2025-05-15 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-22 08:50 - 2025-05-22 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-29 08:50 - 2025-05-29 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-06-05 08:50 - 2025-06-05 09:40: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-05 09:40 - 2025-03-05 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-03-12 09:40 - 2025-03-12 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-03-19 09:40 - 2025-03-19 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-03-26 09:40 - 2025-03-26 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-02 09:40 - 2025-04-02 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-09 09:40 - 2025-04-09 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-16 09:40 - 2025-04-16 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-23 09:40 - 2025-04-23 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-04-30 09:40 - 2025-04-30 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-07 09:40 - 2025-05-07 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-14 09:40 - 2025-05-14 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-21 09:40 - 2025-05-21 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-05-28 09:40 - 2025-05-28 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-06-04 09:40 - 2025-06-04 10:30: Data Structures (INTEGRATED MSSemSecondm) at D2, Faculty: Shubham Khari
+2025-03-07 08:00 - 2025-03-07 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-03-14 08:00 - 2025-03-14 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-03-21 08:00 - 2025-03-21 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-03-28 08:00 - 2025-03-28 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-04-04 08:00 - 2025-04-04 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-04-11 08:00 - 2025-04-11 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-04-18 08:00 - 2025-04-18 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-04-25 08:00 - 2025-04-25 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-02 08:00 - 2025-05-02 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-09 08:00 - 2025-05-09 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-16 08:00 - 2025-05-16 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-23 08:00 - 2025-05-23 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-30 08:00 - 2025-05-30 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-06-06 08:00 - 2025-06-06 08:50: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-03-06 08:00 - 2025-03-06 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-03-13 08:00 - 2025-03-13 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-03-20 08:00 - 2025-03-20 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-03-27 08:00 - 2025-03-27 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-04-03 08:00 - 2025-04-03 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-04-10 08:00 - 2025-04-10 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-04-17 08:00 - 2025-04-17 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-04-24 08:00 - 2025-04-24 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-05-01 08:00 - 2025-05-01 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-05-08 08:00 - 2025-05-08 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-05-15 08:00 - 2025-05-15 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-05-22 08:00 - 2025-05-22 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-05-29 08:00 - 2025-05-29 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-06-05 08:00 - 2025-06-05 08:50: Applied AI (INTEGRATED MSSemSecondm) at D3, Faculty: Naveen Kandwal
+2025-03-03 08:00 - 2025-03-03 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-10 08:00 - 2025-03-10 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-17 08:00 - 2025-03-17 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-24 08:00 - 2025-03-24 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-31 08:00 - 2025-03-31 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-07 08:00 - 2025-04-07 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-14 08:00 - 2025-04-14 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-21 08:00 - 2025-04-21 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-04-28 08:00 - 2025-04-28 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-05 08:00 - 2025-05-05 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-12 08:00 - 2025-05-12 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-19 08:00 - 2025-05-19 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-05-26 08:00 - 2025-05-26 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-06-02 08:00 - 2025-06-02 08:50: Cyber Law and Ethics (Industry) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Chandan Kumawat
+2025-03-04 08:00 - 2025-03-04 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-11 08:00 - 2025-03-11 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-18 08:00 - 2025-03-18 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-25 08:00 - 2025-03-25 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-01 08:00 - 2025-04-01 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-08 08:00 - 2025-04-08 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-15 08:00 - 2025-04-15 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-22 08:00 - 2025-04-22 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-04-29 08:00 - 2025-04-29 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-06 08:00 - 2025-05-06 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-13 08:00 - 2025-05-13 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-20 08:00 - 2025-05-20 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-05-27 08:00 - 2025-05-27 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-06-03 08:00 - 2025-06-03 08:50: Indian Knowledge System (SWAYAM - MOOC) (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Kusum Agarwal
+2025-03-07 09:40 - 2025-03-07 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-14 09:40 - 2025-03-14 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-21 09:40 - 2025-03-21 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-28 09:40 - 2025-03-28 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-04 09:40 - 2025-04-04 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-11 09:40 - 2025-04-11 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-18 09:40 - 2025-04-18 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-04-25 09:40 - 2025-04-25 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-02 09:40 - 2025-05-02 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-09 09:40 - 2025-05-09 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-16 09:40 - 2025-05-16 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-23 09:40 - 2025-05-23 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-05-30 09:40 - 2025-05-30 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-06-06 09:40 - 2025-06-06 10:30: Python Programming (INTEGRATED MSSemSecondm) at D3, Faculty: Dr. Manivel Kandasamy
+2025-03-06 10:30 - 2025-03-06 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-03-13 10:30 - 2025-03-13 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-03-20 10:30 - 2025-03-20 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-03-27 10:30 - 2025-03-27 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-04-03 10:30 - 2025-04-03 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-04-10 10:30 - 2025-04-10 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-04-17 10:30 - 2025-04-17 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-04-24 10:30 - 2025-04-24 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-01 10:30 - 2025-05-01 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-08 10:30 - 2025-05-08 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-15 10:30 - 2025-05-15 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-22 10:30 - 2025-05-22 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-05-29 10:30 - 2025-05-29 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-06-05 10:30 - 2025-06-05 11:20: Data Structures (INTEGRATED MSSemSecondm) at D3, Faculty: Shubham Khari
+2025-03-07 13:00 - 2025-03-07 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-14 13:00 - 2025-03-14 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-21 13:00 - 2025-03-21 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-28 13:00 - 2025-03-28 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-04 13:00 - 2025-04-04 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-11 13:00 - 2025-04-11 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-18 13:00 - 2025-04-18 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-25 13:00 - 2025-04-25 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-02 13:00 - 2025-05-02 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-09 13:00 - 2025-05-09 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-16 13:00 - 2025-05-16 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-23 13:00 - 2025-05-23 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-30 13:00 - 2025-05-30 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-06-06 13:00 - 2025-06-06 13:50: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-06 15:30 - 2025-03-06 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-13 15:30 - 2025-03-13 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-20 15:30 - 2025-03-20 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-27 15:30 - 2025-03-27 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-03 15:30 - 2025-04-03 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-10 15:30 - 2025-04-10 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-17 15:30 - 2025-04-17 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-24 15:30 - 2025-04-24 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-01 15:30 - 2025-05-01 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-08 15:30 - 2025-05-08 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-15 15:30 - 2025-05-15 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-22 15:30 - 2025-05-22 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-29 15:30 - 2025-05-29 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-06-05 15:30 - 2025-06-05 16:20: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-03 14:40 - 2025-03-03 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-10 14:40 - 2025-03-10 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-17 14:40 - 2025-03-17 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-24 14:40 - 2025-03-24 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-31 14:40 - 2025-03-31 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-07 14:40 - 2025-04-07 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-14 14:40 - 2025-04-14 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-21 14:40 - 2025-04-21 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-28 14:40 - 2025-04-28 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-05 14:40 - 2025-05-05 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-12 14:40 - 2025-05-12 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-19 14:40 - 2025-05-19 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-26 14:40 - 2025-05-26 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-06-02 14:40 - 2025-06-02 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-05 13:50 - 2025-03-05 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-03-12 13:50 - 2025-03-12 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-03-19 13:50 - 2025-03-19 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-03-26 13:50 - 2025-03-26 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-04-02 13:50 - 2025-04-02 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-04-09 13:50 - 2025-04-09 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-04-16 13:50 - 2025-04-16 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-04-23 13:50 - 2025-04-23 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-04-30 13:50 - 2025-04-30 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-05-07 13:50 - 2025-05-07 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-05-14 13:50 - 2025-05-14 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-05-21 13:50 - 2025-05-21 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-05-28 13:50 - 2025-05-28 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-06-04 13:50 - 2025-06-04 14:40: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D3, Faculty: Harivendrana Bangaru
+2025-03-04 15:30 - 2025-03-04 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-11 15:30 - 2025-03-11 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-18 15:30 - 2025-03-18 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-25 15:30 - 2025-03-25 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-01 15:30 - 2025-04-01 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-08 15:30 - 2025-04-08 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-15 15:30 - 2025-04-15 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-22 15:30 - 2025-04-22 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-29 15:30 - 2025-04-29 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-06 15:30 - 2025-05-06 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-13 15:30 - 2025-05-13 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-20 15:30 - 2025-05-20 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-27 15:30 - 2025-05-27 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-06-03 15:30 - 2025-06-03 16:20: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-07 14:40 - 2025-03-07 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-14 14:40 - 2025-03-14 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-21 14:40 - 2025-03-21 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-28 14:40 - 2025-03-28 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-04 14:40 - 2025-04-04 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-11 14:40 - 2025-04-11 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-18 14:40 - 2025-04-18 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-04-25 14:40 - 2025-04-25 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-02 14:40 - 2025-05-02 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-09 14:40 - 2025-05-09 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-16 14:40 - 2025-05-16 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-23 14:40 - 2025-05-23 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-05-30 14:40 - 2025-05-30 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-06-06 14:40 - 2025-06-06 15:30: Python Programming (BSCSemSecondn) at D3, Faculty: Arvind Singh
+2025-03-04 14:40 - 2025-03-04 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-11 14:40 - 2025-03-11 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-18 14:40 - 2025-03-18 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-25 14:40 - 2025-03-25 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-01 14:40 - 2025-04-01 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-08 14:40 - 2025-04-08 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-15 14:40 - 2025-04-15 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-22 14:40 - 2025-04-22 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-29 14:40 - 2025-04-29 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-06 14:40 - 2025-05-06 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-13 14:40 - 2025-05-13 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-20 14:40 - 2025-05-20 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-27 14:40 - 2025-05-27 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-06-03 14:40 - 2025-06-03 15:30: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-06 13:50 - 2025-03-06 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-13 13:50 - 2025-03-13 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-20 13:50 - 2025-03-20 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-27 13:50 - 2025-03-27 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-03 13:50 - 2025-04-03 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-10 13:50 - 2025-04-10 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-17 13:50 - 2025-04-17 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-24 13:50 - 2025-04-24 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-01 13:50 - 2025-05-01 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-08 13:50 - 2025-05-08 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-15 13:50 - 2025-05-15 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-22 13:50 - 2025-05-22 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-29 13:50 - 2025-05-29 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-06-05 13:50 - 2025-06-05 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-07 15:30 - 2025-03-07 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-03-14 15:30 - 2025-03-14 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-03-21 15:30 - 2025-03-21 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-03-28 15:30 - 2025-03-28 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-04-04 15:30 - 2025-04-04 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-04-11 15:30 - 2025-04-11 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-04-18 15:30 - 2025-04-18 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-04-25 15:30 - 2025-04-25 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-05-02 15:30 - 2025-05-02 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-05-09 15:30 - 2025-05-09 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-05-16 15:30 - 2025-05-16 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-05-23 15:30 - 2025-05-23 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-05-30 15:30 - 2025-05-30 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-06-06 15:30 - 2025-06-06 16:20: Professional Communication and Behaviour - I (BSCSemSecondn) at D3, Faculty: Rama Maliya
+2025-03-05 13:00 - 2025-03-05 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-03-12 13:00 - 2025-03-12 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-03-19 13:00 - 2025-03-19 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-03-26 13:00 - 2025-03-26 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-02 13:00 - 2025-04-02 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-09 13:00 - 2025-04-09 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-16 13:00 - 2025-04-16 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-23 13:00 - 2025-04-23 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-30 13:00 - 2025-04-30 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-07 13:00 - 2025-05-07 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-14 13:00 - 2025-05-14 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-21 13:00 - 2025-05-21 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-28 13:00 - 2025-05-28 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-06-04 13:00 - 2025-06-04 13:50: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-03-03 13:00 - 2025-03-03 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-10 13:00 - 2025-03-10 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-17 13:00 - 2025-03-17 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-24 13:00 - 2025-03-24 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-31 13:00 - 2025-03-31 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-07 13:00 - 2025-04-07 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-14 13:00 - 2025-04-14 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-21 13:00 - 2025-04-21 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-28 13:00 - 2025-04-28 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-05 13:00 - 2025-05-05 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-12 13:00 - 2025-05-12 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-19 13:00 - 2025-05-19 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-26 13:00 - 2025-05-26 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-06-02 13:00 - 2025-06-02 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-03 15:30 - 2025-03-03 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-10 15:30 - 2025-03-10 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-17 15:30 - 2025-03-17 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-24 15:30 - 2025-03-24 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-31 15:30 - 2025-03-31 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-07 15:30 - 2025-04-07 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-14 15:30 - 2025-04-14 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-21 15:30 - 2025-04-21 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-04-28 15:30 - 2025-04-28 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-05 15:30 - 2025-05-05 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-12 15:30 - 2025-05-12 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-19 15:30 - 2025-05-19 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-05-26 15:30 - 2025-05-26 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-06-02 15:30 - 2025-06-02 16:20: Indian Knowledge System (SWAYAM - MOOC) (BSCSemSecondn) at D2, Faculty: Harivendrana Bangaru
+2025-03-07 13:50 - 2025-03-07 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-03-14 13:50 - 2025-03-14 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-03-21 13:50 - 2025-03-21 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-03-28 13:50 - 2025-03-28 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-04 13:50 - 2025-04-04 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-11 13:50 - 2025-04-11 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-18 13:50 - 2025-04-18 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-04-25 13:50 - 2025-04-25 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-02 13:50 - 2025-05-02 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-09 13:50 - 2025-05-09 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-16 13:50 - 2025-05-16 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-23 13:50 - 2025-05-23 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-05-30 13:50 - 2025-05-30 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-06-06 13:50 - 2025-06-06 14:40: Applied AI (BSCSemSecondn) at D3, Faculty: Manender Dutt
+2025-03-05 15:30 - 2025-03-05 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-12 15:30 - 2025-03-12 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-19 15:30 - 2025-03-19 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-26 15:30 - 2025-03-26 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-02 15:30 - 2025-04-02 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-09 15:30 - 2025-04-09 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-16 15:30 - 2025-04-16 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-23 15:30 - 2025-04-23 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-30 15:30 - 2025-04-30 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-07 15:30 - 2025-05-07 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-14 15:30 - 2025-05-14 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-21 15:30 - 2025-05-21 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-28 15:30 - 2025-05-28 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-06-04 15:30 - 2025-06-04 16:20: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-06 13:00 - 2025-03-06 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-13 13:00 - 2025-03-13 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-20 13:00 - 2025-03-20 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-27 13:00 - 2025-03-27 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-03 13:00 - 2025-04-03 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-10 13:00 - 2025-04-10 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-17 13:00 - 2025-04-17 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-24 13:00 - 2025-04-24 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-01 13:00 - 2025-05-01 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-08 13:00 - 2025-05-08 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-15 13:00 - 2025-05-15 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-22 13:00 - 2025-05-22 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-29 13:00 - 2025-05-29 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-06-05 13:00 - 2025-06-05 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-04 13:00 - 2025-03-04 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-11 13:00 - 2025-03-11 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-18 13:00 - 2025-03-18 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-25 13:00 - 2025-03-25 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-01 13:00 - 2025-04-01 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-08 13:00 - 2025-04-08 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-15 13:00 - 2025-04-15 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-22 13:00 - 2025-04-22 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-04-29 13:00 - 2025-04-29 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-06 13:00 - 2025-05-06 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-13 13:00 - 2025-05-13 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-20 13:00 - 2025-05-20 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-05-27 13:00 - 2025-05-27 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-06-03 13:00 - 2025-06-03 13:50: Psychology (BSCSemSecondn) at D3, Faculty: Udit Dave
+2025-03-05 14:40 - 2025-03-05 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-12 14:40 - 2025-03-12 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-19 14:40 - 2025-03-19 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-26 14:40 - 2025-03-26 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-02 14:40 - 2025-04-02 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-09 14:40 - 2025-04-09 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-16 14:40 - 2025-04-16 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-23 14:40 - 2025-04-23 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-04-30 14:40 - 2025-04-30 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-07 14:40 - 2025-05-07 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-14 14:40 - 2025-05-14 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-21 14:40 - 2025-05-21 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-05-28 14:40 - 2025-05-28 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-06-04 14:40 - 2025-06-04 15:30: Introduction to Industry 4.0 (BSCSemSecondn) at D3, Faculty: Unknown
+2025-03-04 13:50 - 2025-03-04 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-03-11 13:50 - 2025-03-11 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-03-18 13:50 - 2025-03-18 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-03-25 13:50 - 2025-03-25 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-04-01 13:50 - 2025-04-01 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-04-08 13:50 - 2025-04-08 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-04-15 13:50 - 2025-04-15 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-04-22 13:50 - 2025-04-22 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-04-29 13:50 - 2025-04-29 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-05-06 13:50 - 2025-05-06 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-05-13 13:50 - 2025-05-13 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-05-20 13:50 - 2025-05-20 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-05-27 13:50 - 2025-05-27 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-06-03 13:50 - 2025-06-03 14:40: Introduction to Industry 4.0 (BSCSemSecondn) at D2, Faculty: Unknown
+2025-03-03 13:50 - 2025-03-03 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-10 13:50 - 2025-03-10 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-17 13:50 - 2025-03-17 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-24 13:50 - 2025-03-24 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-03-31 13:50 - 2025-03-31 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-07 13:50 - 2025-04-07 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-14 13:50 - 2025-04-14 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-21 13:50 - 2025-04-21 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-04-28 13:50 - 2025-04-28 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-05 13:50 - 2025-05-05 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-12 13:50 - 2025-05-12 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-19 13:50 - 2025-05-19 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-05-26 13:50 - 2025-05-26 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
+2025-06-02 13:50 - 2025-06-02 14:40: Data Structures (BSCSemSecondn) at D3, Faculty: Dr. Shikha Deep
